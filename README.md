@@ -1,5 +1,4 @@
 
-About this project:
 Using data from the World Values Survey (WVS) and with a focus on empirical validation of a theoretical framework, I worked with identifying and analyzing potential causal relationships between financial satisfaction and overall life contentment among adults in Sweden. 
 
 Key Highlights:
